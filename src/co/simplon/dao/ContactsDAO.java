@@ -1,4 +1,4 @@
-package co.simplon;
+package co.simplon.dao;
 
 import java.util.List;
 

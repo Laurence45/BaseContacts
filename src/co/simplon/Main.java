@@ -5,6 +5,9 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import co.simplon.dao.ContactsDAO;
+import co.simplon.dao.JDBCContactDAO;
+
 public class Main {
 	
 private static final Logger logger = LoggerFactory.getLogger(Main.class);
