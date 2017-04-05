@@ -1,0 +1,2 @@
+# BaseContacts
+jpa et persistence
